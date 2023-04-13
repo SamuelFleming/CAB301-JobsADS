@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAB301-Jobs", "CAB301-Jobs\CAB301-Jobs.csproj", "{DBCC2D37-3C47-4E23-A6C0-22CB7A51B9CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAB301-JobsTesting", "CAB301-JobsTesting\CAB301-JobsTesting.csproj", "{14381B3B-36B4-4CAD-9EC5-C2F7936A847C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCC2D37-3C47-4E23-A6C0-22CB7A51B9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCC2D37-3C47-4E23-A6C0-22CB7A51B9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCC2D37-3C47-4E23-A6C0-22CB7A51B9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCC2D37-3C47-4E23-A6C0-22CB7A51B9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14381B3B-36B4-4CAD-9EC5-C2F7936A847C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14381B3B-36B4-4CAD-9EC5-C2F7936A847C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14381B3B-36B4-4CAD-9EC5-C2F7936A847C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14381B3B-36B4-4CAD-9EC5-C2F7936A847C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C12DCBA9-6557-484B-BD74-8EF930229B6F}
+	EndGlobalSection
+EndGlobal
