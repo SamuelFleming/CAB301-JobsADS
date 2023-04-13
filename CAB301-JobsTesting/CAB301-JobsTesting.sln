@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAB301-JobsTesting", "CAB301-JobsTesting.csproj", "{BFDA4853-0E73-4708-B91B-40F91A7C344D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFDA4853-0E73-4708-B91B-40F91A7C344D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDA4853-0E73-4708-B91B-40F91A7C344D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDA4853-0E73-4708-B91B-40F91A7C344D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDA4853-0E73-4708-B91B-40F91A7C344D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC1F2FD-BC87-47B1-9AE4-F53FFB4DCD01}
+	EndGlobalSection
+EndGlobal
